@@ -1,5 +1,15 @@
 @charset "UTF-8";
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 html {
     font-family: 'Poppins', sans-serif;
+}
+
+.logo-loja {
+    width: 4rem;
 }
